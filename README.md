@@ -16,3 +16,7 @@ Any serial GPS should work, program using GEOFENCE electron app.
 you will need to use your own Google Maps API key.  
 
 On Windows add asar support to 7-ZIP unpack app.asar update the index.html with your working API for google maps.  
+
+Instructions for the original PCB by Spark fun are here;  
+
+https://learn.sparkfun.com/tutorials/getting-started-with-the-geofence/all  
