@@ -1,18 +1,15 @@
 /*
+
+  ORIGINAL BY....
   GeoFence Board Firmware
   By: Nick Poole
   SparkFun Electronics
   Date: July 10th, 2017
   License: This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
-  GeoFence has an ATmega running at 8MHz/3.3V. Select 'Pro Mini @ 3.3V/8MHz' from Boards menu to program
-  the device.
+   
+  THANKS for your awesome work, but I wanted to use serial GPS, because thats what I had..  
 */
 
-//#include <SparkFun_I2C_GPS_Arduino_Library.h> //Use Library Manager or download here: https://github.com/sparkfun/SparkFun_I2C_GPS_Arduino_Library
-//I2CGPS myI2CGPS; //Hook object to the library
-
-//#include <SparkFun_Ublox_Arduino_Library.h> //http://librarymanager/All#SparkFun_Ublox_GPS
-//SFE_UBLOX_GPS myI2CGPS;
 
 #include <SoftwareSerial.h>
 
