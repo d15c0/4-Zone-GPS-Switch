@@ -3,7 +3,7 @@
 
 Arduino Pro Mini 
   
-GPIO 6 STATUS LED
+GPIO 6 STATUS LED  
 GPIO 7 ZONE 1  
 GPIO 8 ZONE 2  
 GPIO 9 ZONE 3  
